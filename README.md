@@ -13,7 +13,9 @@ This tool was written in Python 2.7
 You need to install the following Python libraries before using the tool:
 
 BeautifulSoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 Requests: http://docs.python-requests.org/en/master/
+
 Fake-UserAgent: https://pypi.org/project/fake-useragent/
 
 ### Running
