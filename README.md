@@ -7,8 +7,11 @@ The data is farmed from a Chinese governmental webpage: http://www.stats.gov.cn/
 The website updates Chinese administrative info annually. The most updated vintage is 2017.
 
 Admin-1:  Provinces  省
+
 Admin-2:  Prefectures 地级行政区
+
 Admin-3:  Counties 县级行政区 （县/市/区）
+
 Aadmin-4: Townships 乡级行政区 （乡镇/街道）
 
 ### Prerequisites
