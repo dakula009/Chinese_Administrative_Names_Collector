@@ -6,6 +6,11 @@ The data is farmed from a Chinese governmental webpage: http://www.stats.gov.cn/
 
 The website updates Chinese administrative info annually. The most updated vintage is 2017.
 
+Admin-1:  Provinces  省
+Admin-2:  Prefectures 地级行政区
+Admin-3:  Counties 县级行政区 （县/市/区）
+Aadmin-4: Townships 乡级行政区 （乡镇/街道）
+
 ### Prerequisites
 
 This tool was written in Python 2.7 
@@ -20,7 +25,13 @@ Fake-UserAgent: https://pypi.org/project/fake-useragent/
 
 ### Running
 
-No need to install anything, just run the script "Get_Admins.py"
+Feel free to change the work directory. The default one is "C:\Temps"
+
+Run the script "Get_Admins_1.0.py"
+
+There major output will be a txt file containing collected informaiton
+
+In the output file "Chinese_Admins_1to4_unique.txt", each row is composed by Admin1 + Admin2 + Admin3 + Admin4
 
 
 ## Contributing
