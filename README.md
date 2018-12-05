@@ -5,7 +5,7 @@ The data is farmed from the Chinese Bureau of Statistics's website: http://www.s
 
 The website updates Chinese administrative info annually. Currrently, the most updated vintage is 2017.
 
-Administrative Divisions in China:
+The Structure of Administrative Divisions in China:
 
 Admin-1:  Provinces  省
 
@@ -41,7 +41,10 @@ The script can recover from break-points. If anything strange happens, simply ki
 
 ## Contributing
 
-Please folk the project if needed
+Please folk the project if you like
+
+Please commit if you like
+
 
 ## License
 
