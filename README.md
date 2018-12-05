@@ -1,5 +1,5 @@
 # Chinese_Administrative_Names_Collector
-A python web crawler gathering administrative names ( from Admin1  to Admn4) from a Chinese governmental website
+A python web crawler gathering administrative names (Admin1 through Admin4) from a Chinese governmental website
 
 The data is farmed from the Chinese Bureau of Statistics's website: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/, 
 
