@@ -31,7 +31,7 @@ Fake-UserAgent: https://pypi.org/project/fake-useragent/
 
 Feel free to change the work directory. The default one is "C:\Temps"
 
-Run the script "Get_Admins_1.0.py"
+Run the script "Get_Admins_1.1.py"
 
 The major output will be a txt file containing collected informaiton
 
