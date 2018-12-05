@@ -1,10 +1,11 @@
 # Chinese_Administrative_Names_Collector
-A python web crawler collecting administrative names ( from Admin1  to Admn4) from governmental website
-Mine Chinese admin s using a python web-crawler
+A python web crawler gathering administrative names ( from Admin1  to Admn4) from a Chinese governmental website
 
-The data is farmed from a Chinese governmental webpage: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/, 
+The data is farmed from the Chinese Bureau of Statistics's website: http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/, 
 
-The website updates Chinese administrative info annually. The most updated vintage is 2017.
+The website updates Chinese administrative info annually. Currrently, the most updated vintage is 2017.
+
+Administrative Divisions in China:
 
 Admin-1:  Provinces  省
 
