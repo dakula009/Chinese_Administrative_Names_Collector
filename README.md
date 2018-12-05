@@ -37,7 +37,7 @@ The major output will be a txt file containing collected informaiton
 
 In the output file "Chinese_Admins_1to4_unique.txt", each row is composed by Admin1 + Admin2 + Admin3 + Admin4
 
-The script can resume from break-points. If anything wierd happens, simply kill the script, and it will continue from the last saved checkpoint. It might collect some repeated information in some cases, but it will automatically delete the duplicates once it finishes running.
+The script can recover from break-points. If anything strange happens, simply kill the script, and it will continue from the last saved checkpoint. It might collect some repeated information in some cases, don't worry, it will automatically delete the duplicates once it finishes running.
 
 ## Contributing
 
