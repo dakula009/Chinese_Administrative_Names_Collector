@@ -32,10 +32,11 @@ Feel free to change the work directory. The default one is "C:\Temps"
 
 Run the script "Get_Admins_1.0.py"
 
-There major output will be a txt file containing collected informaiton
+The major output will be a txt file containing collected informaiton
 
 In the output file "Chinese_Admins_1to4_unique.txt", each row is composed by Admin1 + Admin2 + Admin3 + Admin4
 
+The script can resume from break-points. If anything wierd happens, simply kill the script, and it will continue from the last saved checkpoint. It might collect some repeated information in some cases, but it will automatically delete the duplicates once it finishes running.
 
 ## Contributing
 
